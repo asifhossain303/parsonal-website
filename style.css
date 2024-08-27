@@ -1,0 +1,70 @@
+ body{
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+
+ }
+ .half-width{
+  width:40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  float: left;
+  height: 700px;
+  
+  margin-bottom: 10%;
+ }
+ #name-hilight{
+  color: rgb(239, 9, 90);
+  font-size: 60px;
+ }
+ .button{
+  background-color: rgb(238, 10, 101);
+  text-decoration: none;
+  border-radius: 5px;
+  color: aliceblue;
+  padding: 5px;
+ }
+ .half-width img{
+  width: 100%;
+ }
+  #latest-work{
+    text-align: center;
+    font-size: 50px;
+    margin: 100px;
+  }
+  .work{
+    width: 20%;
+    float: left;
+    margin-left:5%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+
+  }
+  .work img{
+    width: 100%;
+  }
+  h5{
+    text-align: center;
+    font-size: 20px;
+  }
+  #founder{
+    text-align: center;
+    color:gray;
+  }
+  #lastp{
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+    background-image: linear-gradient(rgb(219, 13, 150),rgb(241, 14, 135));
+    color: white;
+    margin: 100px 200px;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 10px;
+  }
+  h1{
+    font-size: 40px;
+  }
+  
+  
+  
